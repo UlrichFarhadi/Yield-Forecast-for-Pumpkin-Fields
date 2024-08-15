@@ -1,0 +1,3070 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>215180</id>
+      <name>FieldLabeling</name>
+      <size>100</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-03-07 11:46:24.164929+00:00</created>
+      <updated>2022-03-07 13:54:06.157706+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>99</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>309786</id>
+          <start>0</start>
+          <stop>99</stop>
+          <url>http://cvat.org/?id=309786</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>Ulrich23</username>
+        <email>ulrichfarhadi@hotmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Pumpkin</name>
+          <color>#3b1bd8</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2022-03-07 14:46:24.886883+00:00</dumped>
+  </meta>
+  <image id="0" name="0.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="99.67" cy="52.25" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="191.21" cy="52.25" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="90.88" cy="136.29" rx="9.76" ry="9.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="178.18" cy="63.65" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="175.57" cy="77.00" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="140.72" cy="96.22" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="89.58" cy="176.35" rx="9.76" ry="9.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="94.46" cy="188.73" rx="9.76" ry="9.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.58" cy="194.27" rx="9.76" ry="9.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="121.82" cy="24.89" rx="9.76" ry="9.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="167.43" cy="120.33" rx="9.76" ry="9.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="19.22" cy="93.29" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="66.45" cy="129.77" rx="9.76" ry="9.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="49.51" cy="91.01" rx="9.76" ry="9.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="106.51" cy="68.86" rx="9.76" ry="9.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="131.09" cy="63.01" rx="9.76" ry="9.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="75.58" cy="87.95" rx="11.42" ry="11.38" rotation="358.90" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="57.17" cy="13.81" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="48.21" cy="11.21" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="84.04" cy="62.67" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="134.53" cy="107.62" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+  </image>
+  <image id="1" name="1.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.78" cy="151.60" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="116.94" cy="165.93" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="70.36" cy="91.34" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="21.50" cy="58.11" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="42.02" cy="134.98" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="36.81" cy="182.21" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="149.19" cy="194.27" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="113.03" cy="71.47" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="43.65" cy="25.86" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="36.16" cy="18.37" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.06" cy="51.60" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.25" cy="69.51" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="178.18" cy="60.07" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="193.81" cy="36.94" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="183.06" cy="36.29" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="78.18" cy="111.86" rx="10.62" ry="10.56" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.34" cy="110.55" rx="10.62" ry="10.56" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="11.40" cy="118.70" rx="10.62" ry="10.56" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="82.57" cy="195.43" rx="10.62" ry="10.56" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="85.44" cy="99.76" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="71.46" cy="5.88" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="131.27" cy="108.09" rx="10.62" ry="10.56" z_order="0">
+    </ellipse>
+  </image>
+  <image id="2" name="10.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="131.27" cy="95.90" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="56.19" cy="107.28" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.90" cy="185.47" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="183.71" cy="68.53" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="129.97" cy="78.96" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="176.22" cy="129.77" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.78" cy="121.95" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.55" cy="169.51" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="65.80" cy="124.56" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.56" cy="151.92" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="22.48" cy="92.31" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="83.39" cy="99.80" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="116.94" cy="124.23" rx="8.31" ry="8.47" z_order="0">
+    </ellipse>
+  </image>
+  <image id="3" name="11.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="103.91" cy="23.26" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+  </image>
+  <image id="4" name="12.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="57.98" cy="9.58" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="90.55" cy="33.68" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="99.35" cy="68.53" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="119.22" cy="50.94" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="102.61" cy="167.88" rx="9.92" ry="9.75" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="77.87" cy="188.43" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="11.40" cy="173.75" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.89" cy="164.95" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.56" cy="54.20" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+  </image>
+  <image id="5" name="13.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="198.05" cy="58.11" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="44.95" cy="110.55" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="27.36" cy="174.40" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="35.50" cy="99.15" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="56.03" cy="47.36" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="78.83" cy="64.62" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="113.03" cy="62.35" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="122.15" cy="42.48" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.16" cy="42.80" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="159.61" cy="62.02" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="111.40" cy="103.71" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.80" cy="160.39" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="197.72" cy="31.08" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+  </image>
+  <image id="6" name="14.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="72.64" cy="102.74" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="54.72" cy="172.77" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="57.33" cy="163.65" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="13.03" cy="156.81" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="39.74" cy="149.32" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="12.70" cy="115.11" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="6.19" cy="27.17" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="46.58" cy="8.60" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="36.81" cy="60.39" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="61.24" cy="55.50" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="1.63" cy="158.76" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+  </image>
+  <image id="7" name="15.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="142.35" cy="185.15" rx="9.76" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="57.00" cy="194.92" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="196.09" cy="125.86" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="164.50" cy="124.89" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="162.54" cy="196.22" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="74.59" cy="163.65" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="124.43" cy="150.29" rx="8.63" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="139.07" cy="91.20" rx="9.76" ry="9.92" z_order="0">
+    </ellipse>
+  </image>
+  <image id="8" name="16.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="18.57" cy="159.74" rx="9.76" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="5.54" cy="27.49" rx="9.76" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="55.72" cy="171.46" rx="8.48" ry="8.47" z_order="0">
+    </ellipse>
+  </image>
+  <image id="9" name="17.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="150.81" cy="80.59" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="71.01" cy="62.02" rx="9.76" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="82.08" cy="61.37" rx="9.76" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="5.21" cy="86.78" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="27.69" cy="57.79" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="109.12" cy="17.72" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="110.10" cy="3.39" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="156.68" cy="58.11" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.21" cy="77.98" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="63.52" cy="196.22" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="196.42" cy="121.63" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="119.54" cy="130.10" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="141.04" cy="80.59" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.06" cy="101.43" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="50.47" cy="141.98" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+  </image>
+  <image id="10" name="18.jpg" width="200" height="200">
+  </image>
+  <image id="11" name="19.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.63" cy="33.68" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="79.15" cy="195.57" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="79.15" cy="71.47" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="120.20" cy="142.80" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.83" cy="122.61" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="96.74" cy="111.53" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="65.80" cy="113.81" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="40.07" cy="71.47" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="48.70" cy="167.39" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="177.20" cy="122.93" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="184.04" cy="183.19" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="158.96" cy="190.36" rx="8.44" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="170.68" cy="179.61" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="31.60" cy="197.52" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.58" cy="51.60" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="91.53" cy="43.78" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="92.18" cy="58.76" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+  </image>
+  <image id="12" name="2.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="117.09" cy="17.55" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="125.41" cy="190.36" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="188.27" cy="47.69" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="70.03" cy="134.98" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="37.79" cy="113.49" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="10.75" cy="106.97" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="36.16" cy="53.22" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="2.93" cy="72.44" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="103.91" cy="114.46" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="59.61" cy="105.02" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="42.67" cy="60.07" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="159.61" cy="60.72" rx="9.73" ry="9.59" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="197.72" cy="32.05" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="196.74" cy="60.39" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="151.47" cy="196.22" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="113.36" cy="184.82" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.88" cy="165.93" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="144.63" cy="111.53" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="137.79" cy="71.79" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="83.06" cy="64.30" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+  </image>
+  <image id="13" name="20.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="116.29" cy="198.83" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="167.75" cy="139.22" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="154.40" cy="137.92" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="137.46" cy="149.32" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="118.89" cy="139.87" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="127.69" cy="62.02" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.85" cy="60.22" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="122.48" cy="100.13" rx="11.05" ry="10.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="72.95" cy="73.24" rx="11.05" ry="10.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="151.14" cy="82.87" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.21" cy="191.01" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.30" cy="103.06" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="46.58" cy="122.61" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="21.17" cy="115.44" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="52.12" cy="52.25" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="53.09" cy="36.61" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="59.61" cy="26.84" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.73" cy="35.31" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="88.92" cy="149.32" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="140.72" cy="111.86" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="185.99" cy="84.17" rx="8.91" ry="8.76" z_order="0">
+    </ellipse>
+  </image>
+  <image id="14" name="21.jpg" width="200" height="200">
+  </image>
+  <image id="15" name="22.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.25" cy="88.40" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="95.11" cy="171.14" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="162.54" cy="145.41" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="141.04" cy="117.39" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.90" cy="6.32" rx="9.73" ry="9.53" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="180.78" cy="95.57" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="191.83" cy="77.48" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+  </image>
+  <image id="16" name="23.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="41.17" cy="48.79" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.18" cy="193.29" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="74.27" cy="177.65" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="36.81" cy="162.35" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="2.61" cy="196.55" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="26.06" cy="63.65" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.90" cy="121.95" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="159.12" cy="184.66" rx="9.56" ry="9.37" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="49.51" cy="160.39" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="144.62" cy="187.10" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="182.08" cy="171.47" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="155.70" cy="41.82" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="188.60" cy="35.96" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="191.21" cy="97.20" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="158.63" cy="112.18" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.96" cy="69.51" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.01" cy="154.20" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="6.84" cy="63.65" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="76.55" cy="154.53" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="66.12" cy="150.94" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="148.86" cy="174.07" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="118.24" cy="180.26" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="127.36" cy="10.23" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.58" cy="52.90" rx="8.73" ry="8.71" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="140.07" cy="5.02" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="86.64" cy="62.67" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+  </image>
+  <image id="17" name="24.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="48.86" cy="156.81" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="62.54" cy="54.85" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="99.35" cy="12.83" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="43.32" cy="5.02" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="15.96" cy="161.37" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.73" cy="142.15" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="119.54" cy="147.69" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="141.04" cy="34.66" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="58.63" cy="22.93" rx="10.88" ry="10.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="173.92" cy="15.09" rx="9.88" ry="9.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="85.67" cy="172.12" rx="9.88" ry="9.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="91.86" cy="162.67" rx="9.88" ry="9.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="102.61" cy="172.12" rx="9.88" ry="9.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="112.38" cy="170.81" rx="9.88" ry="9.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="183.06" cy="143.45" rx="9.88" ry="9.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="177.52" cy="37.26" rx="9.88" ry="9.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="184.37" cy="24.23" rx="9.88" ry="9.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="168.06" cy="45.09" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.38" cy="66.91" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="148.53" cy="73.42" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="191.86" cy="63.32" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="156.03" cy="82.87" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.50" cy="88.40" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+  </image>
+  <image id="18" name="25.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="63.84" cy="56.81" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="60.91" cy="32.38" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="112.05" cy="22.93" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.16" cy="20.98" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="35.18" cy="42.48" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="197.72" cy="21.63" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="167.75" cy="17.72" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="163.84" cy="43.78" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="141.37" cy="71.14" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="151.14" cy="81.56" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="184.69" cy="87.43" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="185.34" cy="96.55" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="171.34" cy="100.46" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="100.65" cy="84.17" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="71.66" cy="86.78" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="188.11" cy="123.92" rx="11.34" ry="11.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="102.28" cy="103.06" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.89" cy="111.53" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.95" cy="147.69" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="19.22" cy="175.38" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="32.25" cy="171.47" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="196.42" cy="186.45" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="94.46" cy="164.30" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="80.13" cy="107.62" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="34.85" cy="138.89" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+  </image>
+  <image id="19" name="26.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="122.15" cy="97.85" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="60.91" cy="41.82" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="137.46" cy="3.71" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.18" cy="13.49" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="55.38" cy="171.79" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="37.46" cy="113.16" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="104.89" cy="146.06" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.18" cy="119.67" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="139.09" cy="103.71" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="182.08" cy="29.45" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="43.97" cy="27.17" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="69.71" cy="5.99" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+  </image>
+  <image id="20" name="27.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="191.21" cy="44.76" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="32.25" cy="9.58" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.21" cy="31.08" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="39.41" cy="45.08" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="60.91" cy="47.69" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.50" cy="48.99" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="16.94" cy="193.62" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="22.98" cy="175.20" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="197.72" cy="133.36" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="168.08" cy="136.29" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="152.12" cy="151.92" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.21" cy="154.85" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.95" cy="155.18" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="113.03" cy="149.64" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="127.36" cy="125.86" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="131.60" cy="84.17" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="34.85" cy="70.81" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="73.62" cy="86.12" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.30" cy="88.73" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.78" cy="53.55" rx="9.22" ry="8.86" z_order="0">
+    </ellipse>
+  </image>
+  <image id="21" name="28.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="88.60" cy="150.62" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.16" cy="131.08" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="163.20" cy="41.03" rx="9.05" ry="9.16" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="64.68" cy="163.16" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="149.51" cy="135.96" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="79.80" cy="13.81" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="27.69" cy="57.46" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="33.55" cy="46.71" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="88.92" cy="21.63" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.88" cy="21.30" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="122.15" cy="50.94" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="89.90" cy="76.03" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="56.35" cy="105.99" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="23.78" cy="116.74" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.23" cy="140.85" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.41" cy="145.41" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="37.46" cy="165.93" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.39" cy="118.05" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.81" cy="117.07" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.81" cy="65.60" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="100.00" cy="82.87" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.06" cy="50.29" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="170.36" cy="77.98" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="185.67" cy="102.08" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="194.14" cy="131.08" rx="9.85" ry="10.00" z_order="0">
+    </ellipse>
+  </image>
+  <image id="22" name="29.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="145.93" cy="154.85" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="116.94" cy="169.19" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="128.66" cy="176.35" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="198.05" cy="154.85" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="85.99" cy="64.30" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="73.94" cy="64.95" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="35.50" cy="98.83" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="168.08" cy="119.67" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="146.91" cy="100.46" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="40.39" cy="9.90" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.99" cy="3.71" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="7.49" cy="2.08" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="34.20" cy="69.51" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="140.39" cy="189.38" rx="8.53" ry="8.54" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="141.72" cy="12.02" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="131.27" cy="3.39" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="93.81" cy="25.86" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="86.97" cy="5.02" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="62.21" cy="134.01" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="47.56" cy="170.49" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="72.31" cy="177.00" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="83.39" cy="107.30" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="47.88" cy="63.32" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="73.94" cy="124.56" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="123.45" cy="119.35" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.48" cy="101.43" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="171.66" cy="91.01" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="147.23" cy="142.80" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+  </image>
+  <image id="23" name="3.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="31.60" cy="148.99" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="76.55" cy="142.48" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="124.76" cy="28.47" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="139.09" cy="30.10" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.38" cy="171.47" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="31.92" cy="182.54" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="58.31" cy="179.28" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="149.51" cy="197.52" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.55" cy="112.51" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.16" cy="122.28" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.65" cy="113.16" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="8.79" cy="75.70" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="13.03" cy="116.42" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="27.69" cy="109.90" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="53.42" cy="122.61" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="175.90" cy="66.25" rx="10.18" ry="9.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="197.72" cy="31.55" rx="8.55" ry="8.33" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.07" cy="64.95" rx="8.55" ry="8.33" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.16" cy="138.89" rx="8.55" ry="8.33" z_order="0">
+    </ellipse>
+  </image>
+  <image id="24" name="30.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="42.02" cy="188.40" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="54.40" cy="186.12" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="54.40" cy="186.12" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="61.56" cy="194.27" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="92.01" cy="197.86" rx="9.02" ry="8.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="131.27" cy="184.49" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="195.11" cy="180.59" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="88.60" cy="117.39" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.56" cy="134.01" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="38.90" cy="66.25" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="13.68" cy="39.22" rx="8.55" ry="8.33" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="55.38" cy="135.63" rx="8.55" ry="8.33" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="53.42" cy="135.31" rx="8.55" ry="8.33" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="149.19" cy="119.67" rx="8.55" ry="8.33" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="72.64" cy="176.68" rx="8.55" ry="8.33" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="195.11" cy="180.59" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.80" cy="58.11" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="54.40" cy="57.13" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="90.88" cy="2.41" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="67.75" cy="21.63" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="68.73" cy="33.03" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="127.04" cy="48.99" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="156.03" cy="58.44" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+  </image>
+  <image id="25" name="31.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="30.94" cy="29.77" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="140.72" cy="37.59" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="182.41" cy="3.39" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="83.71" cy="1.11" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="132.90" cy="12.51" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="121.82" cy="32.70" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="98.37" cy="152.57" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="126.06" cy="188.73" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="155.05" cy="186.12" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="199.35" cy="140.52" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="139.74" cy="121.95" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="91.86" cy="142.80" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="65.47" cy="55.50" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.34" cy="17.39" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="22.48" cy="79.28" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.86" cy="59.09" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="153.42" cy="61.37" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="69.71" cy="170.49" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.99" cy="191.01" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+  </image>
+  <image id="26" name="32.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="184.69" cy="8.92" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="24.43" cy="39.54" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="17.92" cy="58.44" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="183.71" cy="191.01" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="142.35" cy="184.82" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="139.09" cy="198.18" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="119.87" cy="197.52" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="70.68" cy="197.52" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="66.12" cy="152.25" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="51.79" cy="151.92" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.73" cy="144.10" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="41.37" cy="92.96" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="49.19" cy="79.93" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="182.08" cy="93.62" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="76.55" cy="83.19" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="100.98" cy="110.23" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="130.29" cy="139.87" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="52.12" cy="26.84" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.21" cy="20.33" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.15" cy="46.38" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+  </image>
+  <image id="27" name="33.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="58.96" cy="111.21" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="176.87" cy="178.31" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="171.34" cy="110.55" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="124.43" cy="105.99" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="112.70" cy="100.78" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.31" cy="91.01" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="102.61" cy="5.34" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="114.33" cy="7.62" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="38.76" cy="101.11" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="14.66" cy="175.38" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+  </image>
+  <image id="28" name="34.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="152.12" cy="179.61" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="34.53" cy="134.01" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="172.31" cy="38.89" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="175.90" cy="90.68" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="130.94" cy="156.48" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="95.77" cy="162.02" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="45.93" cy="138.89" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="39.09" cy="123.26" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.39" cy="82.87" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.30" cy="72.12" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.95" cy="43.13" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="42.35" cy="15.44" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="23.45" cy="4.04" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="2.61" cy="25.21" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+  </image>
+  <image id="29" name="35.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="10.42" cy="149.32" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="67.43" cy="114.14" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="147.88" cy="71.79" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="108.47" cy="15.77" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="100.98" cy="34.01" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.72" cy="46.06" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="84.37" cy="44.10" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="74.27" cy="38.24" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="66.12" cy="51.27" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="34.53" cy="51.92" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="2.28" cy="86.45" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="8.47" cy="95.90" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="8.47" cy="107.62" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="132.90" cy="129.77" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="151.79" cy="104.37" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="178.18" cy="80.59" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="83.06" cy="175.70" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="103.58" cy="149.64" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="184.37" cy="144.10" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="181.76" cy="164.95" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="45.28" cy="159.41" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="24.10" cy="154.53" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+  </image>
+  <image id="30" name="36.jpg" width="200" height="200">
+  </image>
+  <image id="31" name="37.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.42" cy="172.29" rx="8.18" ry="8.31" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="56.03" cy="47.04" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="77.85" cy="64.62" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="122.15" cy="42.80" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.16" cy="43.13" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="160.26" cy="63.32" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="197.39" cy="32.38" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="199.35" cy="57.13" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="112.70" cy="103.71" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="113.03" cy="63.97" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.80" cy="159.41" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="44.47" cy="109.27" rx="8.54" ry="8.49" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="35.68" cy="99.05" rx="8.54" ry="8.45" z_order="0">
+    </ellipse>
+  </image>
+  <image id="32" name="38.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="130.29" cy="11.53" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="99.35" cy="71.47" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="98.05" cy="36.29" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="177.85" cy="22.93" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="152.12" cy="64.62" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="131.27" cy="124.23" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="159.93" cy="126.84" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="153.42" cy="144.10" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="45.93" cy="158.11" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="71.01" cy="128.47" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="59.46" cy="131.88" rx="8.54" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="178.52" cy="62.97" rx="9.36" ry="9.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.22" cy="68.55" rx="8.53" ry="8.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="88.27" cy="9.90" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="48.53" cy="29.45" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="36.16" cy="61.37" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="23.45" cy="45.73" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+  </image>
+  <image id="33" name="39.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="44.95" cy="171.14" rx="8.34" ry="8.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="86.97" cy="105.02" rx="8.34" ry="8.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="8.14" cy="107.95" rx="8.34" ry="8.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.66" cy="29.45" rx="8.34" ry="8.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="125.73" cy="44.76" rx="8.34" ry="8.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="83.06" cy="47.69" rx="8.34" ry="8.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="158.81" cy="48.17" rx="8.34" ry="8.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="99.02" cy="195.90" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="110.42" cy="184.82" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.94" cy="44.26" rx="8.68" ry="8.31" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="84.37" cy="138.57" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="47.56" cy="194.59" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="198.37" cy="190.03" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="12.70" cy="151.60" rx="10.00" ry="10.10" z_order="0">
+    </ellipse>
+  </image>
+  <image id="34" name="4.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="111.73" cy="40.85" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="23.78" cy="19.35" rx="8.34" ry="8.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="171.66" cy="150.62" rx="8.34" ry="8.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="102.93" cy="133.68" rx="8.34" ry="8.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="26.87" cy="47.03" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="138.76" cy="35.63" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="150.16" cy="62.67" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.38" cy="79.28" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+  </image>
+  <image id="35" name="40.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="79.15" cy="34.01" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="68.08" cy="29.45" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="46.25" cy="45.08" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="36.16" cy="103.71" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="18.57" cy="132.05" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="145.28" cy="127.49" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="163.84" cy="53.55" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="191.53" cy="38.57" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="178.50" cy="23.58" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="154.40" cy="32.38" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="48.53" cy="148.34" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="60.91" cy="123.91" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="102.93" cy="132.38" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="89.58" cy="133.36" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="79.15" cy="99.80" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="111.40" cy="192.96" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.63" cy="180.59" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="50.14" cy="189.21" rx="8.66" ry="8.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="195.77" cy="105.67" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="123.13" cy="13.16" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="69.38" cy="67.88" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+  </image>
+  <image id="36" name="41.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="20.85" cy="50.94" rx="8.00" ry="8.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="92.18" cy="91.01" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="8.79" cy="165.28" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="22.48" cy="164.95" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.86" cy="143.78" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="94.79" cy="139.22" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="134.85" cy="150.29" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="159.93" cy="142.80" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="180.78" cy="134.98" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="164.48" cy="199.50" rx="8.34" ry="8.27" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="42.67" cy="36.29" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="122.15" cy="87.10" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="149.51" cy="68.86" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="147.88" cy="55.50" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.58" cy="69.19" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="21.98" cy="60.09" rx="8.00" ry="8.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="58.31" cy="146.71" rx="8.00" ry="8.12" z_order="0">
+    </ellipse>
+  </image>
+  <image id="37" name="42.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="33.55" cy="102.41" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="195.46" cy="165.82" rx="8.84" ry="8.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="183.39" cy="148.34" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="199.02" cy="114.14" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="181.42" cy="78.36" rx="8.99" ry="8.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="178.83" cy="89.06" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="106.51" cy="122.28" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="95.77" cy="132.38" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="68.40" cy="118.05" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="81.11" cy="119.35" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="146.25" cy="154.53" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="176.55" cy="180.59" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.50" cy="183.19" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="64.50" cy="188.40" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="24.10" cy="37.59" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="32.90" cy="48.34" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+  </image>
+  <image id="38" name="43.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="61.24" cy="76.03" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="112.38" cy="21.30" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="107.49" cy="13.16" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="6.51" cy="151.60" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="15.63" cy="159.74" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="29.64" cy="163.65" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="107.17" cy="165.60" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.33" cy="118.05" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="45.28" cy="34.98" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.90" cy="116.74" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="65.80" cy="172.12" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="119.54" cy="134.98" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="68.40" cy="124.89" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="66.12" cy="140.20" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="193.16" cy="196.22" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="192.83" cy="41.17" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="130.94" cy="59.41" rx="9.81" ry="9.92" z_order="0">
+    </ellipse>
+  </image>
+  <image id="39" name="44.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="79.15" cy="48.99" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="102.61" cy="66.25" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="91.86" cy="4.37" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="73.94" cy="78.96" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="147.72" cy="131.06" rx="8.34" ry="8.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.30" cy="164.30" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="196.41" cy="66.73" rx="8.49" ry="8.47" z_order="0">
+    </ellipse>
+  </image>
+  <image id="40" name="45.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.39" cy="184.50" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="73.94" cy="197.52" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="110.29" cy="194.40" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="130.62" cy="194.01" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+  </image>
+  <image id="41" name="46.jpg" width="200" height="200">
+  </image>
+  <image id="42" name="47.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="56.68" cy="65.28" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="99.35" cy="59.09" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="85.67" cy="79.61" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+  </image>
+  <image id="43" name="48.jpg" width="200" height="200">
+  </image>
+  <image id="44" name="49.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="24.76" cy="81.89" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="71.66" cy="6.64" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="194.79" cy="29.45" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="161.56" cy="51.27" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="144.95" cy="92.31" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="90.88" cy="145.73" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="68.08" cy="186.45" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="22.80" cy="194.59" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="41.69" cy="143.13" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="21.50" cy="30.75" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.56" cy="43.78" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="30.29" cy="72.12" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.12" cy="112.83" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="195.44" cy="197.52" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="148.21" cy="173.75" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.80" cy="157.79" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="196.42" cy="77.65" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.22" cy="60.39" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.63" cy="58.76" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="96.09" cy="87.75" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="117.92" cy="97.85" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+  </image>
+  <image id="45" name="5.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="52.44" cy="176.68" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="2.28" cy="81.56" rx="8.20" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.08" cy="29.45" rx="8.20" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="27.69" cy="59.41" rx="8.20" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="88.60" cy="160.07" rx="8.20" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="72.96" cy="139.87" rx="8.20" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="34.00" cy="100.16" rx="8.20" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="107.17" cy="165.28" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="112.70" cy="115.11" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="86.64" cy="61.04" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.07" cy="42.48" rx="9.95" ry="9.77" z_order="0">
+    </ellipse>
+  </image>
+  <image id="46" name="50.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="94.79" cy="194.92" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.71" cy="100.13" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="158.63" cy="59.74" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="162.54" cy="30.10" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="114.66" cy="45.08" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="188.27" cy="3.39" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="154.72" cy="13.81" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="142.67" cy="15.11" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="140.72" cy="3.71" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="187.30" cy="178.96" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="174.92" cy="123.26" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="59.28" cy="142.80" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.89" cy="120.00" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="2.28" cy="55.50" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="11.40" cy="47.69" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="17.92" cy="38.57" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="129.32" cy="64.95" rx="8.20" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.21" cy="134.98" rx="8.20" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="124.76" cy="192.31" rx="8.20" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="31.92" cy="52.90" rx="8.20" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="63.19" cy="59.74" rx="8.20" ry="7.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="84.67" cy="38.72" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="76.55" cy="24.23" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="2.28" cy="27.17" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="130.94" cy="138.24" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="148.53" cy="137.92" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="44.30" cy="50.62" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+  </image>
+  <image id="47" name="51.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.22" cy="132.70" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="176.22" cy="103.06" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="165.15" cy="114.79" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="165.15" cy="43.13" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="156.03" cy="39.22" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="148.53" cy="48.34" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="126.06" cy="66.25" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.54" cy="75.05" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="49.84" cy="55.50" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="54.40" cy="31.08" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="86.97" cy="57.46" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="192.83" cy="20.33" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="19.87" cy="183.19" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="12.38" cy="157.79" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="32.90" cy="142.80" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="117.26" cy="80.59" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="96.09" cy="155.50" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="127.36" cy="156.48" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="121.50" cy="167.88" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="64.82" cy="179.28" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="109.79" cy="177.16" rx="9.50" ry="9.64" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="56.83" cy="116.90" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="69.71" cy="39.54" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="116.61" cy="37.59" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="71.34" cy="115.11" rx="8.83" ry="8.83" z_order="0">
+    </ellipse>
+  </image>
+  <image id="48" name="52.jpg" width="200" height="200">
+  </image>
+  <image id="49" name="53.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="123.78" cy="96.22" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="107.49" cy="152.90" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="106.19" cy="115.44" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="20.52" cy="160.07" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="27.36" cy="196.87" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="175.90" cy="187.75" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="68.40" cy="12.51" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="51.79" cy="11.21" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="12.05" cy="87.10" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="165.80" cy="41.50" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="154.40" cy="183.52" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+  </image>
+  <image id="50" name="54.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="68.08" cy="193.29" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="104.89" cy="92.95" rx="9.66" ry="9.45" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="182.89" cy="54.85" rx="11.31" ry="8.49" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="152.44" cy="132.05" rx="8.54" ry="8.49" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="162.21" cy="180.26" rx="8.54" ry="8.49" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="32.90" cy="155.18" rx="8.54" ry="8.49" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.58" cy="139.87" rx="8.54" ry="8.49" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="9.77" cy="60.72" rx="8.54" ry="8.49" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="16.29" cy="87.10" rx="8.54" ry="8.49" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.65" cy="148.01" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.50" cy="146.71" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="34.85" cy="174.07" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="99.02" cy="167.56" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="81.11" cy="148.34" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="55.70" cy="125.21" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="61.24" cy="1.76" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="175.57" cy="97.85" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="163.19" cy="72.44" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="98.37" cy="49.64" rx="10.01" ry="10.12" z_order="0">
+    </ellipse>
+  </image>
+  <image id="51" name="55.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="148.21" cy="29.45" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="121.17" cy="53.40" rx="8.83" ry="9.15" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="126.38" cy="43.13" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="175.57" cy="4.69" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="193.16" cy="31.08" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.14" cy="107.64" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="180.78" cy="87.10" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="197.39" cy="93.62" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="122.15" cy="85.15" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="181.11" cy="29.12" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="149.51" cy="75.05" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+  </image>
+  <image id="52" name="56.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="46.58" cy="56.81" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="175.57" cy="138.89" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="172.96" cy="128.47" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="139.41" cy="131.08" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="132.90" cy="141.50" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="180.78" cy="171.14" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="125.41" cy="191.99" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="92.51" cy="148.34" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.54" cy="106.97" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="74.38" cy="113.47" rx="10.48" ry="10.47" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="89.25" cy="128.14" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.12" cy="100.13" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.90" cy="34.66" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="160.26" cy="11.21" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.38" cy="16.42" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="134.53" cy="23.26" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+  </image>
+  <image id="53" name="57.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="50.49" cy="141.50" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="148.86" cy="56.16" rx="8.85" ry="8.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="160.26" cy="16.42" rx="8.85" ry="8.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="112.70" cy="32.05" rx="8.85" ry="8.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="14.02" cy="11.06" rx="8.85" ry="8.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="2.93" cy="29.12" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.33" cy="64.95" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="192.83" cy="78.96" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="193.81" cy="52.90" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="180.78" cy="63.65" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="59.61" cy="133.03" rx="9.82" ry="9.80" z_order="0">
+    </ellipse>
+  </image>
+  <image id="54" name="58.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="86.99" cy="61.38" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="26.38" cy="30.42" rx="8.85" ry="8.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.34" cy="60.72" rx="8.85" ry="8.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="33.88" cy="99.80" rx="8.85" ry="8.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="72.31" cy="140.20" rx="8.85" ry="8.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="106.84" cy="165.93" rx="8.85" ry="8.80" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="54.41" cy="177.19" rx="9.34" ry="9.31" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.07" cy="43.13" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="87.94" cy="160.41" rx="8.69" ry="8.32" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="112.06" cy="115.61" rx="10.99" ry="11.11" z_order="0">
+    </ellipse>
+  </image>
+  <image id="55" name="59.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="44.95" cy="181.89" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="98.70" cy="153.88" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="75.90" cy="144.10" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="56.36" cy="103.55" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.18" cy="65.93" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.89" cy="15.77" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="46.58" cy="41.17" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="15.31" cy="34.33" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="150.81" cy="92.64" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="138.44" cy="108.27" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="75.24" cy="91.99" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="56.35" cy="89.71" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="78.18" cy="179.28" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="146.91" cy="33.03" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="71.01" cy="125.54" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="98.70" cy="170.16" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="89.90" cy="8.27" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.58" cy="189.71" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="18.57" cy="156.81" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="12.05" cy="135.96" rx="10.33" ry="10.44" z_order="0">
+    </ellipse>
+  </image>
+  <image id="56" name="6.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="64.17" cy="122.28" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="57.65" cy="88.08" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="35.50" cy="78.96" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="24.43" cy="51.60" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.58" cy="18.70" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="67.10" cy="101.11" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="77.85" cy="103.71" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="182.91" cy="183.66" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="164.50" cy="115.44" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="134.53" cy="95.90" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="154.40" cy="89.38" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="12.70" cy="100.46" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.58" cy="127.17" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="27.04" cy="165.60" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="74.59" cy="172.12" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="88.27" cy="168.86" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="109.45" cy="177.33" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="114.98" cy="186.45" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="124.76" cy="145.41" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="93.49" cy="121.63" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="53.42" cy="111.86" rx="8.89" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.18" cy="58.11" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="173.29" cy="53.55" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.88" cy="70.49" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="94.14" cy="47.04" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.65" cy="53.55" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="39.41" cy="34.01" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+  </image>
+  <image id="57" name="60.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="158.63" cy="35.31" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="156.68" cy="155.83" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="128.01" cy="194.59" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.15" cy="178.96" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="40.07" cy="191.99" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="10.42" cy="196.55" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="57.65" cy="148.01" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.00" cy="120.98" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.48" cy="21.63" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+  </image>
+  <image id="58" name="61.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.73" cy="106.97" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.58" cy="76.03" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="67.43" cy="5.67" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="73.29" cy="43.78" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="95.11" cy="55.83" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.31" cy="2.74" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="151.47" cy="50.29" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="158.63" cy="36.29" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="131.60" cy="65.28" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="118.24" cy="86.78" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="51.47" cy="78.31" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="32.25" cy="75.05" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.34" cy="66.58" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="20.52" cy="59.09" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.26" cy="134.66" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.26" cy="146.71" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="72.64" cy="187.10" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="70.03" cy="107.30" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="93.16" cy="116.74" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="120.52" cy="137.92" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="109.77" cy="175.70" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="145.60" cy="123.91" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="158.96" cy="109.58" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="192.51" cy="176.03" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="184.69" cy="122.61" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="182.10" cy="113.77" rx="8.75" ry="8.50" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="180.62" cy="105.18" rx="8.25" ry="8.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="173.29" cy="91.66" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.71" cy="72.77" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="168.40" cy="58.76" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+  </image>
+  <image id="59" name="62.jpg" width="200" height="200">
+  </image>
+  <image id="60" name="63.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="45.60" cy="55.50" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="140.07" cy="11.21" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="106.70" cy="10.84" rx="10.88" ry="10.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.63" cy="144.76" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="193.81" cy="36.94" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="197.07" cy="5.99" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="73.79" cy="143.15" rx="10.06" ry="10.25" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="48.21" cy="158.44" rx="10.06" ry="10.25" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="81.76" cy="151.27" rx="10.06" ry="10.25" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="18.24" cy="39.87" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="81.76" cy="48.66" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="77.20" cy="77.00" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="89.25" cy="67.23" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="103.58" cy="67.56" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.30" cy="95.90" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="62.54" cy="6.97" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="143.97" cy="105.67" rx="10.06" ry="10.25" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="143.00" cy="38.57" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="142.35" cy="58.44" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="156.03" cy="95.90" rx="9.39" ry="9.29" z_order="0">
+    </ellipse>
+  </image>
+  <image id="61" name="64.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.11" cy="113.34" rx="10.06" ry="9.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="10.75" cy="73.75" rx="10.06" ry="10.25" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="34.85" cy="73.75" rx="10.06" ry="10.25" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="32.90" cy="85.47" rx="10.06" ry="10.25" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.96" cy="114.14" rx="10.06" ry="10.25" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="150.98" cy="142.33" rx="8.60" ry="8.60" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="171.66" cy="148.66" rx="8.60" ry="8.60" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.34" cy="193.62" rx="10.06" ry="9.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="141.35" cy="101.13" rx="9.55" ry="9.57" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="66.12" cy="77.65" rx="10.06" ry="9.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.15" cy="130.40" rx="9.24" ry="8.90" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.95" cy="3.71" rx="8.60" ry="8.60" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="10.10" cy="4.69" rx="8.60" ry="8.60" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.08" cy="30.75" rx="8.60" ry="8.60" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="117.59" cy="48.34" rx="8.60" ry="8.60" z_order="0">
+    </ellipse>
+  </image>
+  <image id="62" name="65.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="140.39" cy="119.35" rx="10.06" ry="9.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="128.99" cy="52.90" rx="8.77" ry="8.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="10.10" cy="88.08" rx="8.77" ry="8.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="151.48" cy="79.47" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="10.75" cy="101.11" rx="8.77" ry="8.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="19.22" cy="105.02" rx="8.77" ry="8.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="85.99" cy="125.86" rx="8.77" ry="8.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="123.13" cy="62.53" rx="8.77" ry="8.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="156.35" cy="128.14" rx="10.06" ry="9.76" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="167.75" cy="110.55" rx="10.06" ry="9.76" z_order="0">
+    </ellipse>
+  </image>
+  <image id="63" name="66.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.55" cy="99.80" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="162.22" cy="102.55" rx="10.41" ry="10.42" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="89.75" cy="51.10" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="159.61" cy="30.75" rx="8.28" ry="8.35" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.22" cy="80.59" rx="8.28" ry="8.35" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="98.70" cy="82.87" rx="8.28" ry="8.35" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="40.72" cy="57.13" rx="8.28" ry="8.35" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="60.77" cy="143.95" rx="8.28" ry="8.35" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="62.21" cy="162.02" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="31.27" cy="153.22" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.34" cy="164.63" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="39.74" cy="168.53" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="54.40" cy="177.65" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="14.33" cy="187.75" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.15" cy="173.42" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="180.78" cy="49.32" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.88" cy="59.41" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="43.32" cy="8.60" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.99" cy="72.44" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="59.61" cy="105.99" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="55.70" cy="125.86" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="117.92" cy="134.01" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="120.20" cy="116.42" rx="9.58" ry="9.48" z_order="0">
+    </ellipse>
+  </image>
+  <image id="64" name="67.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="161.24" cy="36.94" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="103.91" cy="62.02" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.30" cy="131.08" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="69.06" cy="83.21" rx="9.11" ry="8.79" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="35.50" cy="20.65" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="9.77" cy="5.99" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="120.51" cy="101.78" rx="8.62" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.33" cy="112.18" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="130.63" cy="103.87" rx="8.79" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="76.55" cy="31.08" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="163.84" cy="76.03" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="185.67" cy="63.97" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="145.60" cy="46.38" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+  </image>
+  <image id="65" name="68.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.18" cy="139.22" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="194.46" cy="85.47" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="144.62" cy="130.75" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="196.42" cy="34.01" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="185.99" cy="158.44" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="141.37" cy="195.57" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="131.60" cy="184.17" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="100.00" cy="186.12" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.22" cy="37.26" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="137.79" cy="23.91" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="75.57" cy="29.12" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="94.79" cy="47.36" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="89.58" cy="77.98" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="31.92" cy="85.47" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="93.49" cy="129.12" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+  </image>
+  <image id="66" name="69.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.18" cy="122.61" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.96" cy="34.01" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="47.88" cy="167.56" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="79.80" cy="194.92" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="40.39" cy="72.44" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="2.95" cy="52.10" rx="9.45" ry="9.65" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="170.68" cy="180.91" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="184.69" cy="182.87" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="90.23" cy="43.78" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="91.53" cy="59.41" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="79.15" cy="71.14" rx="9.75" ry="9.95" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.71" cy="110.74" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="66.12" cy="113.49" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="31.27" cy="198.18" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="119.54" cy="142.15" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="158.63" cy="189.71" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+  </image>
+  <image id="67" name="7.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="148.18" cy="110.72" rx="8.42" ry="8.63" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="140.39" cy="194.92" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="62.87" cy="165.60" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="114.33" cy="156.48" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="72.31" cy="30.75" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="49.84" cy="136.94" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="51.79" cy="116.74" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.63" cy="79.28" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="183.39" cy="145.08" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="193.81" cy="137.92" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="177.20" cy="157.46" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="176.87" cy="176.03" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="192.18" cy="198.83" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+  </image>
+  <image id="68" name="70.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="12.05" cy="190.68" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+  </image>
+  <image id="69" name="71.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="156.68" cy="129.12" rx="10.73" ry="10.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="161.89" cy="14.79" rx="10.73" ry="10.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="114.99" cy="49.14" rx="10.73" ry="10.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="29.64" cy="93.94" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.06" cy="60.24" rx="8.29" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="120.85" cy="162.67" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="40.07" cy="5.67" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="160.59" cy="79.93" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="102.93" cy="165.60" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.72" cy="175.05" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="73.94" cy="168.86" rx="9.09" ry="8.96" z_order="0">
+    </ellipse>
+  </image>
+  <image id="70" name="72.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="34.23" cy="20.82" rx="8.75" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="6.18" cy="6.97" rx="9.27" ry="9.63" z_order="0">
+    </ellipse>
+  </image>
+  <image id="71" name="73.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="38.11" cy="132.38" rx="10.73" ry="10.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="172.96" cy="177.00" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="193.49" cy="126.51" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.90" cy="136.94" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="62.21" cy="108.60" rx="10.73" ry="10.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="91.53" cy="92.31" rx="10.73" ry="10.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="174.27" cy="97.20" rx="10.73" ry="10.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="58.31" cy="126.84" rx="10.73" ry="10.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.58" cy="191.66" rx="10.73" ry="10.29" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="77.40" cy="190.97" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="129.97" cy="99.48" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="113.36" cy="88.40" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="109.77" cy="119.35" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="120.85" cy="128.79" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+  </image>
+  <image id="72" name="74.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="134.20" cy="132.38" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="94.29" cy="156.00" rx="9.91" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="156.03" cy="40.20" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="126.06" cy="67.88" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="105.54" cy="76.03" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="54.40" cy="32.05" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="57.00" cy="117.07" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="32.42" cy="143.29" rx="10.43" ry="10.31" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="165.15" cy="113.49" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="147.56" cy="49.32" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="192.51" cy="21.30" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="117.91" cy="80.26" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="19.54" cy="185.80" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="10.10" cy="157.13" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="70.36" cy="115.77" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="176.87" cy="102.74" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="64.50" cy="180.59" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="51.14" cy="57.13" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="165.13" cy="44.41" rx="8.46" ry="8.50" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="71.34" cy="40.52" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="128.34" cy="157.79" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="110.42" cy="177.65" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="123.13" cy="167.88" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+  </image>
+  <image id="73" name="75.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="103.58" cy="27.49" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="176.87" cy="22.93" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="153.42" cy="7.30" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.02" cy="27.48" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.45" cy="65.93" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="85.36" cy="107.48" rx="9.77" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="104.89" cy="114.14" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="52.77" cy="75.05" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.58" cy="132.38" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="21.00" cy="105.98" rx="8.27" ry="8.51" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="23.78" cy="115.77" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="21.82" cy="94.92" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="5.21" cy="175.05" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="88.27" cy="169.51" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="114.66" cy="152.90" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="173.29" cy="135.96" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="186.64" cy="132.38" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="154.72" cy="110.23" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="167.75" cy="87.10" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="72.96" cy="82.87" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="111.73" cy="91.34" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.55" cy="16.42" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="111.73" cy="52.25" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="27.04" cy="22.61" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="70.36" cy="6.97" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="91.86" cy="24.23" rx="9.10" ry="9.17" z_order="0">
+    </ellipse>
+  </image>
+  <image id="74" name="76.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="109.12" cy="132.70" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="47.56" cy="117.39" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="62.21" cy="146.71" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="103.58" cy="148.01" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="93.49" cy="30.10" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="111.73" cy="43.78" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="162.21" cy="46.06" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="72.64" cy="9.58" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="20.52" cy="32.05" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="54.07" cy="56.81" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="82.08" cy="55.18" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="184.37" cy="104.04" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="128.34" cy="157.79" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="149.51" cy="161.69" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+  </image>
+  <image id="75" name="77.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="185.99" cy="73.75" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.22" cy="76.35" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="106.84" cy="179.93" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+  </image>
+  <image id="76" name="78.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="50.49" cy="8.27" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="126.38" cy="78.96" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="135.18" cy="105.67" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="146.91" cy="103.39" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="187.30" cy="111.86" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.38" cy="138.89" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="173.62" cy="159.74" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="148.86" cy="167.56" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="139.41" cy="185.47" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="195.11" cy="166.25" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="94.79" cy="186.45" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="109.12" cy="139.54" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="62.87" cy="96.22" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="73.29" cy="81.56" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="26.06" cy="97.20" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.41" cy="120.65" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="8.79" cy="128.14" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="16.94" cy="171.14" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="34.20" cy="186.78" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="46.25" cy="162.35" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="84.69" cy="159.74" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="103.26" cy="158.11" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.39" cy="48.99" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="188.29" cy="176.20" rx="8.46" ry="8.68" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="114.15" cy="112.67" rx="10.90" ry="11.06" z_order="0">
+    </ellipse>
+  </image>
+  <image id="77" name="79.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.81" cy="117.07" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="107.82" cy="42.15" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="93.49" cy="71.79" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="6.19" cy="154.53" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="140.39" cy="55.83" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="170.03" cy="76.03" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="183.39" cy="65.60" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="171.99" cy="117.72" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="177.85" cy="133.68" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+  </image>
+  <image id="78" name="8.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="55.70" cy="21.95" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="31.92" cy="57.46" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="51.79" cy="64.62" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="120.52" cy="48.66" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="47.88" cy="170.49" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="180.13" cy="94.59" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="126.71" cy="176.35" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="162.54" cy="40.52" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.33" cy="169.51" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.07" cy="116.09" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.98" cy="12.18" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="107.49" cy="180.59" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="79.48" cy="191.99" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="113.03" cy="103.39" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="196.42" cy="108.92" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="184.37" cy="17.72" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+  </image>
+  <image id="79" name="80.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="128.99" cy="185.80" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="48.87" cy="65.94" rx="11.23" ry="10.81" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="70.03" cy="102.74" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="16.61" cy="167.23" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="50.49" cy="164.62" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="79.80" cy="176.03" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="173.62" cy="196.22" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="188.92" cy="177.98" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="134.20" cy="133.68" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="131.27" cy="67.23" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="158.63" cy="73.75" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="183.71" cy="71.79" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="96.09" cy="41.17" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="77.85" cy="49.64" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.89" cy="41.17" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="41.37" cy="10.88" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+  </image>
+  <image id="80" name="81.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="192.51" cy="5.02" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="69.71" cy="19.67" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+  </image>
+  <image id="81" name="82.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="154.07" cy="81.56" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="174.27" cy="164.30" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="188.94" cy="150.29" rx="10.26" ry="10.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="26.06" cy="177.65" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="68.73" cy="159.74" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="8.79" cy="121.95" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="30.62" cy="99.15" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="64.17" cy="85.15" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="19.22" cy="105.34" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="96.09" cy="77.65" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="83.39" cy="86.45" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="74.43" cy="80.31" rx="8.82" ry="8.81" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.30" cy="120.33" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="74.92" cy="26.84" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="127.36" cy="48.01" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="130.29" cy="35.96" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="170.36" cy="44.43" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+  </image>
+  <image id="82" name="83.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="127.36" cy="48.34" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="74.59" cy="27.17" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="96.09" cy="77.65" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.73" cy="178.96" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="65.98" cy="160.21" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="75.24" cy="79.28" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="83.71" cy="86.45" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="65.15" cy="84.82" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.99" cy="99.80" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="18.57" cy="105.34" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="128.01" cy="36.29" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="154.72" cy="79.93" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.90" cy="150.62" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="10.24" cy="124.08" rx="9.44" ry="9.63" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="174.27" cy="163.65" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="170.36" cy="45.08" rx="9.77" ry="9.97" z_order="0">
+    </ellipse>
+  </image>
+  <image id="83" name="84.jpg" width="200" height="200">
+  </image>
+  <image id="84" name="85.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="124.43" cy="165.28" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="47.88" cy="35.96" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="188.27" cy="5.34" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="139.41" cy="131.73" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="99.19" cy="126.66" rx="8.96" ry="9.16" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="51.47" cy="192.64" rx="8.96" ry="9.16" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="57.65" cy="82.87" rx="8.96" ry="9.16" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="70.36" cy="83.52" rx="8.96" ry="9.16" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="75.57" cy="72.44" rx="8.96" ry="9.16" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="80.46" cy="57.46" rx="8.96" ry="9.16" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="167.75" cy="52.90" rx="8.96" ry="9.16" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="158.12" cy="143.13" rx="9.95" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="146.58" cy="175.38" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="132.57" cy="194.59" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="156.03" cy="75.05" rx="8.32" ry="8.34" z_order="0">
+    </ellipse>
+  </image>
+  <image id="85" name="86.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="65.47" cy="52.90" rx="9.95" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="133.55" cy="63.65" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="108.79" cy="80.26" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="46.58" cy="54.20" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.34" cy="25.54" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="17.26" cy="58.11" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="2.28" cy="64.95" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.56" cy="82.87" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.12" cy="196.22" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="108.79" cy="187.10" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="14.66" cy="153.55" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="23.79" cy="145.26" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="73.29" cy="157.13" rx="9.95" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="77.20" cy="136.29" rx="9.95" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="124.43" cy="150.62" rx="9.95" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="177.20" cy="159.74" rx="9.95" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="196.74" cy="35.96" rx="9.95" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="165.15" cy="43.13" rx="9.95" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="148.86" cy="52.90" rx="9.95" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="43.32" cy="78.63" rx="9.95" ry="10.13" z_order="0">
+    </ellipse>
+  </image>
+  <image id="86" name="87.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="30.62" cy="94.92" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="45.93" cy="4.69" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="154.72" cy="184.50" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="145.92" cy="37.09" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="197.72" cy="189.71" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="188.60" cy="157.79" rx="9.14" ry="8.98" z_order="0">
+    </ellipse>
+  </image>
+  <image id="87" name="88.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="16.94" cy="130.10" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="100.33" cy="152.57" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="191.21" cy="100.13" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="32.57" cy="46.06" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="172.96" cy="106.64" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="38.44" cy="33.68" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="129.64" cy="46.38" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="117.59" cy="89.71" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="79.15" cy="171.47" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="56.03" cy="134.66" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+  </image>
+  <image id="88" name="89.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="57.33" cy="148.01" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.48" cy="149.32" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="180.78" cy="160.07" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="86.82" cy="115.30" rx="10.62" ry="10.30" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="70.03" cy="93.29" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="95.44" cy="149.97" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="187.48" cy="140.36" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="70.03" cy="133.68" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="49.51" cy="73.75" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="162.21" cy="43.78" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="16.94" cy="81.56" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="14.01" cy="12.51" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="72.64" cy="80.59" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="43.32" cy="100.78" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="185.99" cy="85.80" rx="9.93" ry="10.11" z_order="0">
+    </ellipse>
+  </image>
+  <image id="89" name="9.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.73" cy="141.50" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="14.98" cy="159.74" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="63.52" cy="56.16" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="59.28" cy="22.93" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="136.81" cy="89.06" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="155.70" cy="82.87" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="172.96" cy="15.77" rx="9.93" ry="10.15" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="97.71" cy="12.82" rx="9.93" ry="10.15" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="43.97" cy="157.13" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="85.67" cy="172.77" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="92.18" cy="163.32" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="117.59" cy="146.71" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="114.33" cy="168.86" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="100.33" cy="173.09" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="183.39" cy="141.82" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.78" cy="43.78" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.71" cy="68.21" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="148.86" cy="75.05" rx="8.82" ry="8.99" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="42.67" cy="4.04" rx="9.93" ry="10.15" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="177.85" cy="37.26" rx="9.93" ry="10.15" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="183.71" cy="24.23" rx="9.93" ry="10.15" z_order="0">
+    </ellipse>
+  </image>
+  <image id="90" name="90.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="112.05" cy="48.34" rx="10.90" ry="9.85" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="88.92" cy="137.59" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.56" cy="77.33" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="28.66" cy="11.21" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="173.94" cy="55.50" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="194.14" cy="128.79" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="192.83" cy="142.48" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="172.96" cy="197.52" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="139.39" cy="137.09" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="30.94" cy="161.69" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+  </image>
+  <image id="91" name="91.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="158.96" cy="50.29" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="23.13" cy="117.39" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="82.06" cy="128.28" rx="11.39" ry="10.69" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="139.09" cy="152.25" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="121.50" cy="98.50" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="17.59" cy="139.54" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="3.26" cy="174.71" rx="8.94" ry="10.51" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="10.92" cy="193.96" rx="10.08" ry="10.01" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="195.44" cy="194.92" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.48" cy="176.35" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="170.36" cy="184.50" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="147.23" cy="184.17" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="92.51" cy="136.61" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.95" cy="128.79" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="173.29" cy="101.11" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="121.83" cy="187.99" rx="10.40" ry="10.46" z_order="0">
+    </ellipse>
+  </image>
+  <image id="92" name="92.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="16.61" cy="169.19" rx="9.88" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="43.00" cy="114.14" rx="9.88" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="48.06" cy="189.56" rx="9.88" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="196.59" cy="65.60" rx="7.94" ry="10.00" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="83.71" cy="74.72" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.15" cy="32.38" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="181.11" cy="22.28" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.71" cy="106.97" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="191.86" cy="112.83" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="71.99" cy="180.59" rx="8.94" ry="9.20" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="58.94" cy="63.83" rx="10.88" ry="11.15" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="124.10" cy="42.48" rx="10.88" ry="11.15" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="141.69" cy="19.02" rx="10.88" ry="11.15" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="177.85" cy="54.53" rx="10.88" ry="11.15" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="102.28" cy="78.96" rx="10.88" ry="11.15" z_order="0">
+    </ellipse>
+  </image>
+  <image id="93" name="93.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="172.31" cy="115.11" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.00" cy="5.34" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="138.11" cy="41.50" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="174.27" cy="60.39" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="154.72" cy="60.07" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="49.19" cy="29.45" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="6.19" cy="53.22" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="15.62" cy="72.47" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+  </image>
+  <image id="94" name="94.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.98" cy="112.18" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="141.37" cy="70.16" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="157.33" cy="54.53" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="178.18" cy="55.50" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="31.92" cy="9.25" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="5.87" cy="109.92" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="53.75" cy="107.30" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="104.23" cy="11.21" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="138.11" cy="5.34" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="101.63" cy="107.62" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="122.15" cy="102.41" rx="8.73" ry="8.67" z_order="0">
+    </ellipse>
+  </image>
+  <image id="95" name="95.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.89" cy="171.47" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="30.94" cy="114.14" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="63.52" cy="117.39" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="86.32" cy="128.14" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="134.85" cy="10.23" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="159.93" cy="118.37" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="176.87" cy="136.29" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="184.69" cy="152.57" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="154.72" cy="174.40" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="144.95" cy="158.76" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="118.24" cy="170.81" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.99" cy="180.08" rx="8.12" ry="8.14" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="99.02" cy="191.01" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="22.95" cy="143.78" rx="10.40" ry="10.28" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="86.97" cy="77.33" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+  </image>
+  <image id="96" name="96.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="142.35" cy="124.23" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="114.33" cy="150.29" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="87.79" cy="139.54" rx="8.91" ry="8.81" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="150.81" cy="161.04" rx="8.91" ry="8.81" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="185.99" cy="150.29" rx="8.91" ry="8.81" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="190.88" cy="171.14" rx="8.91" ry="8.81" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="151.47" cy="187.10" rx="8.91" ry="8.81" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="6.36" cy="175.33" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="45.60" cy="149.32" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="85.34" cy="167.88" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="96.09" cy="186.45" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="192.83" cy="184.17" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="84.20" cy="130.64" rx="9.12" ry="8.82" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="128.66" cy="87.43" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="37.46" cy="26.19" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="85.67" cy="19.02" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="153.42" cy="11.86" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="86.64" cy="96.55" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="95.44" cy="112.83" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="108.14" cy="95.90" rx="9.72" ry="9.62" z_order="0">
+    </ellipse>
+  </image>
+  <image id="97" name="97.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="137.79" cy="152.90" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.48" cy="121.30" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.58" cy="104.69" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="142.35" cy="77.00" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="143.00" cy="37.59" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="185.99" cy="32.38" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="176.87" cy="43.78" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="36.16" cy="162.67" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="49.51" cy="133.68" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="37.13" cy="65.28" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="179.15" cy="168.53" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="189.90" cy="152.57" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="100.65" cy="54.53" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+  </image>
+  <image id="98" name="98.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="159.93" cy="13.81" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="156.68" cy="126.82" rx="9.47" ry="9.63" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="39.75" cy="185.16" rx="8.65" ry="8.69" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="195.14" cy="183.01" rx="9.26" ry="8.97" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="61.24" cy="196.22" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="8.14" cy="166.91" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="66.13" cy="138.38" rx="9.29" ry="8.51" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="75.57" cy="146.71" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="104.56" cy="158.44" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="169.71" cy="101.11" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="116.61" cy="73.09" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="168.73" cy="77.00" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="186.97" cy="64.62" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="147.89" cy="117.06" rx="8.64" ry="8.66" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="115.63" cy="38.89" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="75.24" cy="19.02" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="9.45" cy="9.58" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="35.83" cy="54.20" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="65.47" cy="43.45" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="21.82" cy="73.75" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+  </image>
+  <image id="99" name="99.jpg" width="200" height="200">
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="31.60" cy="154.20" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="68.73" cy="147.69" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="77.85" cy="161.69" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="120.85" cy="167.23" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="140.72" cy="166.91" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="175.57" cy="164.30" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="195.11" cy="156.81" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="178.18" cy="133.68" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="170.36" cy="120.65" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.12" cy="104.37" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="130.29" cy="134.33" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="132.57" cy="66.58" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="166.78" cy="51.92" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="149.19" cy="10.23" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="103.91" cy="6.32" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="100.00" cy="54.85" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="64.17" cy="47.04" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="81.76" cy="68.53" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="4.23" cy="103.06" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="48.86" cy="104.69" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="77.73" cy="110.76" rx="9.17" ry="8.84" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="197.39" cy="183.19" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="131.60" cy="185.15" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="25.73" cy="198.18" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="44.95" cy="177.33" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="23.11" cy="2.89" rx="9.92" ry="7.86" z_order="0">
+    </ellipse>
+    <ellipse label="Pumpkin" occluded="0" source="manual" cx="20.52" cy="25.54" rx="9.94" ry="10.13" z_order="0">
+    </ellipse>
+  </image>
+</annotations>

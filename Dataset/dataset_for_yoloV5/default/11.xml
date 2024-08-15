@@ -1,0 +1,35 @@
+<annotation>
+  <filename>11.jpg</filename>
+  <folder></folder>
+  <source>
+    <sourceImage></sourceImage>
+    <sourceAnnotation>Datumaro</sourceAnnotation>
+  </source>
+  <imagesize>
+    <nrows>200</nrows>
+    <ncols>200</ncols>
+  </imagesize>
+  <object>
+    <name>pumpkin</name>
+    <deleted>0</deleted>
+    <verified>0</verified>
+    <occluded>no</occluded>
+    <date></date>
+    <id>0</id>
+    <parts>
+      <hasparts></hasparts>
+      <ispartof></ispartof>
+    </parts>
+    <segm>
+      <mask>11_mask_0.png</mask>
+      <box>
+        <xmin>94.00</xmin>
+        <ymin>13.00</ymin>
+        <xmax>114.00</xmax>
+        <ymax>33.00</ymax>
+      </box>
+      <username></username>
+    </segm>
+    <attributes></attributes>
+  </object>
+</annotation>

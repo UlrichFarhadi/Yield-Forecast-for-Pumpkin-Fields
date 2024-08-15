@@ -1,0 +1,12 @@
+<annotation>
+  <filename>18.jpg</filename>
+  <folder></folder>
+  <source>
+    <sourceImage></sourceImage>
+    <sourceAnnotation>Datumaro</sourceAnnotation>
+  </source>
+  <imagesize>
+    <nrows>200</nrows>
+    <ncols>200</ncols>
+  </imagesize>
+</annotation>
