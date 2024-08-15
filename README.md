@@ -1,6 +1,6 @@
 # Yield Forecast for Pumpkin Fields
 
-This project focuses on performing yield forecasting for pumpkin fields by estimating the number of pumpkins present. The approach leverages a counting algorithm based on the Yolov5 neural network model to detect pumpkins. The project also employs a tiling method to partition a large orthomosaic into smaller, manageable tiles (200x200 or 500x500 pixels) for model processing. To avoid double-counting, the algorithm accounts for overlap between tiles.
+This project focuses on performing yield forecasting for pumpkin fields by estimating the number of pumpkins present. The approach leverages a counting algorithm based on the Yolov5 neural network foundation model to detect pumpkins. The project also employs a tiling method to partition a large orthomosaic into smaller, manageable tiles (200x200 or 500x500 pixels) for model processing. To avoid double-counting, the algorithm accounts for overlap between tiles.
 
 ### Overview
 
@@ -21,7 +21,10 @@ The dataset was divided into:
 
 Data augmentation was employed to enhance the training set, improving the model's robustness to variations in lighting, noise, and other environmental factors. Below is a showcase of the training data before and after augmentation:
 
-![Non-Augmented Training Data](Dataset%20Showcase/Non_Augmented_train_data_GT_showcase.jpg) ![Augmented Training Data](Dataset%20Showcase/Augmented_train_data_GT_showcase.jpg)
+<p align="center">
+  <img src="Dataset%20Showcase/Non_Augmented_train_data_GT_showcase.jpg" alt="Non-Augmented Training Data" width="45%">
+  <img src="Dataset%20Showcase/Augmented_train_data_GT_showcase.jpg" alt="Augmented Training Data" width="45%">
+</p>
 
 ### Detection and Post-Processing
 
