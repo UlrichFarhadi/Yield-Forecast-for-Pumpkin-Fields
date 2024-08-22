@@ -12,7 +12,7 @@ The orthomosaic was divided into tiles of either 200x200 or 500x500 pixels. Whil
 
 ### Dataset Creation and Model Training
 
-To fine-tune the Yolov5 model, a dataset was created using 100 tiles (416x416 pixels each, upscaled versions of the 200x200 tiles accounted for aspect ratio so they can be used with 500x500 tiles later). These tiles were manually labeled and annotated using LabelMe 3.0, with the annotations saved in Pascal VOC format.
+To fine-tune the Yolov5 model, a dataset was created using 100 tiles (416x416 pixels each, upscaled versions of the 200x200 tiles accounted for the aspect ratio so the method can be used with 500x500 tiles later). These tiles were manually labeled and annotated using LabelMe 3.0, with the annotations saved in Pascal VOC format.
 
 The dataset was divided into:
 - **Training Set:** 66 tiles (augmented to 180 tiles for better generalization)
